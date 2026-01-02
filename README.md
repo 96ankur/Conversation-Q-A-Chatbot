@@ -1,6 +1,13 @@
 # Conversation-Q-A-Chatbot
 This is conversational Q&amp;A chatbot with chat history using Lang chain, Hugging Face and Groq 
 
+**NOTE: This application uses UV Package manager**
+
+## Steps to start the application
+1) Clone the repository
+2) Run `uv sync`
+3) Run `streamlit run app.py`
+
 This document explains the exact execution order of a conversational RAG (Retrieval-Augmented Generation) chatbot with memory, based on the implemented LangChain pipeline.
 
 ---
